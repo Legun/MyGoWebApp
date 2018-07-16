@@ -1,7 +1,7 @@
 Building Go Web Applications and Microservices Using Gin
 ========================================================
 
-![Title Building Go Web Applications and Microservices Using Gin] (./Building_Go_Web_Applications___Microservices_Using_Gin.png)
+![Title Building Go Web Applications and Microservices Using Gin](./Building_Go_Web_Applications___Microservices_Using_Gin.png)
 
 
 ## Introduction
